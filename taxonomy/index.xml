@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxonomies on 朝闻道</title>
+    <link>https://zhaowendao.art/taxonomy/</link>
+    <description>Recent content in Taxonomies on 朝闻道</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://zhaowendao.art/taxonomy/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
