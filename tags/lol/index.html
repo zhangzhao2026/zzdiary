@@ -143,18 +143,20 @@
   <div>
     © 2025-<span id="year"></span> ·
     <a href="https://beian.miit.gov.cn/" target="_blank">
-      <span></span>
+      <span> </span>
     </a>
-    · 网站运行: <span id="days">0</span> 天
-  </div>
-  
+    网站运行: <span id="days">0</span> 天
+  </div>  
 </div>
+
 <div class="canvas-wrap">
   <canvas id="canvas"></canvas>
 </div>
-<div id="toTop">
+
+<div id="toTop" style="display: block;">
   Top!!
 </div>
+
 <script>
   var s0 = '2025-05-05';
   s1 = new Date(s0.replace(/-/g, "/"));
@@ -168,7 +170,7 @@
   document.getElementById('year').innerHTML = year;
 </script>
 
-
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
       </div>
     </div>
   </article>

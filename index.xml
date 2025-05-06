@@ -7,7 +7,7 @@
             <link href="https://zhaowendao.art/" rel="alternate" type="text/html" title="html" />
             <link href="https://zhaowendao.art/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="https://zhaowendao.art/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-05-05T22:38:00+08:00</updated>
+    <updated>2025-05-06T15:33:44+08:00</updated>
     
     
     <author>
@@ -15,6 +15,171 @@
             </author>
     
         <id>https://zhaowendao.art/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 05 06]]></title>
+            <link href="https://zhaowendao.art/archives/2025-05-06.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-05-06.html/</id>
+            
+            
+            <published>2025-05-06T08:31:52+08:00</published>
+            <updated>2025-05-06T08:31:52+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="2015341946" theme="#2980b9"></meting-js>
+<p>早上起来发在身体发热，随着意识的逐渐清醒，眼皮和肢体也变得都更沉重。我知道自己这模样是发烧了，于是扛着6点的闹钟睡到 7:50 。情况依然不见好转，量过体温(37.4°)后，我吃了一粒布洛芬，这个药可真管用，10:30 的时候我已经不感到发烧了，只是头还晕晕的，肚子有点饿。</p>
+<ul>
+<li><strong>08:34</strong> 现在我要开始整理电视参数的笔记了。</li>
+<li><strong>10:16</strong> 休息一会儿，越整理越有信心讲好电视。</li>
+<li><strong>10:34</strong> 出去晒了会儿太阳，做了 20 个俯卧撑。</li>
+<li><strong>11:46</strong>-<strong>12:16</strong> 整理一份关于电视屏幕、核心参数的问题清单。</li>
+<li><strong>13:24</strong> 开始吃饭，找一个万字拆解的电影看。</li>
+<li><strong>13:49</strong> 睡一会儿。</li>
+<li><strong>15:01</strong> 还没睡，到腾讯半天这个网站右下角的 Top 按钮，稀里糊涂发现原来是 footer.heml 文件少了一串引入 jquery 的 js 代码。
+<ul>
+<li><code>&lt;script src=&quot;https://code.jquery.com/jquery-3.6.0.min.js&quot;&gt;&lt;/script&gt;</code></li>
+<li>引入这个代码后，连文章目录也神奇第出现了，原来文章命令也是用 jquery 写的。</li>
+<li>现在真的要睡一会儿了！！！</li>
+</ul>
+</li>
+</ul>
+<h3 id="1-写日志拯救了我">1 写日志拯救了我</h3>
+<p>今天，我终于对未来每一天都有了期待，我相信我的人生会因为在网站上写日记而充满意义，每一天，我都会在这里写下与众不同经历和念想。</p>
+<p>真开心自己找到了这样一个宣泄口，既满足了“写点什么给别人看”，又可以作为写作和写日记习惯来培养。</p>
+<p>最巧妙的地方是“给别人看”这里。</p>
+<ul>
+<li>别人并不一定真的存在，可能我写了一整年。也没有一个人发现这个网站。</li>
+<li>别人是否存在不重要，但是别人可以存在很重要。如果我将网址分享给某个人，那么就真的有人在看我写的东西了。
+<ul>
+<li>不过我觉得还没到那个时候，我甚至准备决定永远都不要那么做。因为一旦有了观众，“写点什么”可能就会变成“为了别人写点什么”。</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-电视方面的问题清单">2 电视方面的问题清单：</h3>
+<ul>
+<li>决策
+<ul>
+<li>1.大多数人买电视时，会考虑哪些决策因素？</li>
+<li>2.电视的对比度是什么？影响哪些使用体验？</li>
+</ul>
+</li>
+<li>屏幕
+<ul>
+<li>1.Mini LED 和 QD-Mini LED 有什么区别？</li>
+<li>2.Mini LED 和黑曜屏有什么区别？黑曜屏是 HVA 屏还是 Mini LED 屏？</li>
+<li>3.Mini LED 和 HVA 屏有什么区别？</li>
+<li>4.HVA Pro 屏和 HVA 屏有什么区别？</li>
+<li>5.Mini LED 和广角超显屏有什么区别？广角超显屏是 HVA 屏还是 Mini LED 屏？</li>
+<li>6.Mini LED 和蝶翼华曜屏有什么区别？蝶翼华曜屏是 HVA 屏还是 Mini LED 屏？</li>
+<li>7.Mini LED 和墨晶屏有什么区别？墨晶屏和墨晶屏 Mini LED 屏一样吗？</li>
+<li>8.Mini LED 和类纸屏有什么区别？类纸屏是 Mini LED 屏还是 OLDE 屏或者 HVA 屏？</li>
+</ul>
+</li>
+<li>色域
+<ul>
+<li>1.95% DCI-P3 和 98% DCI-P3 有什么区别？</li>
+<li>2.95% DCI-P3 和 量子点 95% DCI-P3 一样吗？如果不一样，有什么区别？“量子点”是一个特殊概念吗？</li>
+<li>3.买电视时，色域的参数重要吗？95% DCI-P3 和 98% DCI-P3差别大吗？</li>
+</ul>
+</li>
+<li>尺寸
+<ul>
+<li>1.如何根据观影距离和墙壁尺寸来选择电视的尺寸（98、85、75、65、55）？</li>
+<li>2.对于98、85、75、65、55寸的电视，相同尺寸的电视的长宽一样吗？如果一样，通用的长宽数据是多少？</li>
+<li>3.选择98、85、75、65、55寸的电视的依准是什么？</li>
+</ul>
+</li>
+<li>控光分区
+<ul>
+<li>1.电视的控光分区影响哪些使用体验？控光分区有几种档次？</li>
+<li>2.买电视时，如何根据自己的需求，确定合适的控光分区数？</li>
+<li>3.买电视时，选择控光分区的标准是什么？</li>
+<li>4.日常观影，多少控光分区合适？玩游戏，多少控光分区合适？看运动比赛，多少控光分区合适？</li>
+<li>5.控光分区不易低于多少？</li>
+</ul>
+</li>
+<li>亮度
+<ul>
+<li>1.电视的峰值亮度与哪些使用体验有关？峰值亮度有几种档次？</li>
+<li>2.买电视时，如何根据自己的需求，确定合适的峰值亮度？</li>
+</ul>
+</li>
+<li>芯片
+<ul>
+<li>1.有些电视具备AI画质芯片，而有些电视没有芯片，只有画质引擎。有没有芯片有什么区别？</li>
+<li>2.电视的AI画质芯片和独立画质芯片一样吗？AI画质芯片是否就是独立画质芯片？</li>
+<li>3.电视有独立画质芯片，那么是否也有不独立的画质芯片？它们有什么区别？</li>
+</ul>
+</li>
+<li>对比度
+<ul>
+<li>1.电视的对比度影响哪些使用体验？对比度可以分几种层次？</li>
+<li>2.选电视时，多对比度合适？不易低于多少？</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-星际穿越中的细节">3 《星际穿越》中的细节</h3>
+<p><a href="https://www.bilibili.com/video/BV1iT411J7w4/">万字拆解《星际穿越》</a> by 迷影至下Filmlast。</p>
+<p>昨天看了前 44 分钟，包括“前期立项”和“剧情梳理”两部分；今天看了25分钟，电影拆解。从 UP 主的剧情梳理中，我发现了许多之前未注意的细节。</p>
+<ul>
+<li>曼恩博士并不是怕死，而是想实施太空殖民计划，他的反派行为可能是在听到库伯一心想回地球、死也要和家人在一起之后，决定杀掉其他人，消除殖民计划被拯救地球计划影响的可能性。</li>
+<li>贯穿电影始终的竟然是“爱”。库伯从头至尾都是为了爱，看过电影的人都会知道，但布兰德博士在选择下一个目的地时，有一句关于爱的台词，只有听到这句话的人，才会意识到为什么影评中有出现“比引力更强大的是爱”这句话。</li>
+</ul>
+<h3 id="4-国内最好用的-ai-是豆包">4 国内最好用的 AI 是豆包</h3>
+<p>我问了豆包一个问题——jsdelivrde 的 cdn 服务运行多少年了？始终免费吗？是否会一直免费下去？</p>
+<p>它的回答如下：</p>
+<pre tabindex="0"><code>jsDelivr 的 CDN 服务自 2012 年开始运行，截至 2025 年，已经运行了 13 年。
+jsDelivr 是完全免费的，没有带宽限制，也没有高级付费功能，对所有开源项目提供免费服务4。其主要由 Cloudflare、Fastly、NS1、DigitalOcean 等公司赞助。
+关于是否会一直免费下去，目前没有确切的官方信息表明它会一直保持免费。jsDelivr 的免费模式依赖于赞助商的支持以及自身的运营策略。如果未来其运营成本大幅增加、赞助模式发生变化或者业务战略调整，都有可能影响其免费策略。但从目前来看，jsDelivr 致力于为开源项目提供免费的 CDN 服务，并且在不断优化和改进服务质量。
+</code></pre><p>同样的问题拿去问 DeepSeek，得到的结果如下：</p>
+<pre tabindex="0"><code>JSDelivr 的 CDN 服务自 2012 年 上线以来，已经运行了 超过 11 年（截至 2023 年）。它由 Dmitriy Akulov 和 ProspectOne 公司创立，旨在为开源项目提供快速、可靠的免费 CDN 服务。
+### 是否始终免费？
+是的，JSDelivr 自成立以来一直是免费的，并且没有强制收费计划。它主要通过赞助和合作伙伴（如 Cloudflare、Fastly、BunnyCDN 等）的支持来维持运营。
+### 是否会一直免费下去？
+JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服务一样，未来是否变化取决于：
+1. **资金和赞助**：如果运营成本大幅增加，可能会引入限制或增值服务。
+2. **滥用情况**：如果遇到大规模滥用，可能会调整策略（如限制非开源内容）。
+3. **合作伙伴支持**：依赖 CDN 提供商的持续合作。
+### 当前政策（截至 2023 年）
+- 支持 npm、GitHub、WordPress 等开源资源。
+- 无流量或请求量的硬性限制（但合理使用）。
+- 提供多 CDN 冗余，确保高可用性。
+建议关注其 [官网](https://www.jsdelivr.com/) 或 [GitHub](https://github.com/jsdelivr/jsdelivr) 以获取最新动态。对于关键业务，可考虑备用 CDN（如 unpkg、cdnjs）以防政策变化。
+</code></pre><p>DeepSeek 给的答案在结构上看着很唬人，但是阅读和吸收的过程不是很连贯、流畅。DeepSeek 像一台机器，适合与其他机器对话（其他AI GPT），而豆包像人，适合与人类对话。<strong>所以我喜欢豆包比喜欢DeepSeek多一点，也认定豆包是目前国内最好的 AI GPT 工具</strong>。</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%94%B5%E8%A7%86" term="%E7%94%B5%E8%A7%86" label="电视" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>
@@ -96,6 +261,59 @@
                                 <category scheme="https://zhaowendao.art/tags1/lol" term="lol" label="LOL" />
                              
                                 <category scheme="https://zhaowendao.art/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 05 01]]></title>
+            <link href="https://zhaowendao.art/archives/2025-05-01.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-05-01.html/</id>
+            
+            
+            <published>2025-05-01T08:10:43+08:00</published>
+            <updated>2025-05-01T08:10:43+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1396923174" theme="#2980b9"></meting-js>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/202505011031.jpg" alt="202505011031"></p>
+<p>五一去参加了一场婚礼，婚礼大厅的花儿特别多，站在高处平视天花板上的花们，别有一番感受。当无数朵色彩斑斓的花映入你的眼帘，它们带来的视觉冲击力远超一捧花所能带来的感受。就像是看一条窄窄的水沟与面对一条宽宽的河流时，多或者广等有规模的现象才能制造出开阔、雄伟等心理感受。</p>
+<blockquote>
+<p>我想到一个概念——规模效应，它是一个经济学概念，指随着生产规模的扩大，单位产品的生产成本（经济效益）逐渐降低的现象。用在这里不合适，我想表达的是视觉上规模的增大会增强感官的感受，尤其是带来与原来完全不同的感受。</p>
+</blockquote>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E5%87%BA%E8%A1%8C" term="%E5%87%BA%E8%A1%8C" label="出行" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E5%A9%9A%E7%A4%BC" term="%E5%A9%9A%E7%A4%BC" label="婚礼" />
                             
                         
                     
