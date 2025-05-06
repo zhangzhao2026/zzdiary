@@ -7,7 +7,7 @@
             <link href="https://zhaowendao.art/" rel="alternate" type="text/html" title="html" />
             <link href="https://zhaowendao.art/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="https://zhaowendao.art/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-05-06T15:33:44+08:00</updated>
+    <updated>2025-05-06T21:38:17+08:00</updated>
     
     
     <author>
@@ -34,6 +34,7 @@
 <script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
 <script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="2015341946" theme="#2980b9"></meting-js>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250506160239.jpg" alt="20250506160239"></p>
 <p>早上起来发在身体发热，随着意识的逐渐清醒，眼皮和肢体也变得都更沉重。我知道自己这模样是发烧了，于是扛着6点的闹钟睡到 7:50 。情况依然不见好转，量过体温(37.4°)后，我吃了一粒布洛芬，这个药可真管用，10:30 的时候我已经不感到发烧了，只是头还晕晕的，肚子有点饿。</p>
 <ul>
 <li><strong>08:34</strong> 现在我要开始整理电视参数的笔记了。</li>
@@ -49,6 +50,7 @@
 <li>现在真的要睡一会儿了！！！</li>
 </ul>
 </li>
+<li><strong>21:15</strong> 有点进入垃圾时间了，感觉应该去睡觉了，不能再想那么多了。</li>
 </ul>
 <h3 id="1-写日志拯救了我">1 写日志拯救了我</h3>
 <p>今天，我终于对未来每一天都有了期待，我相信我的人生会因为在网站上写日记而充满意义，每一天，我都会在这里写下与众不同经历和念想。</p>
@@ -67,7 +69,8 @@
 <li>决策
 <ul>
 <li>1.大多数人买电视时，会考虑哪些决策因素？</li>
-<li>2.电视的对比度是什么？影响哪些使用体验？</li>
+<li>2.除了观影、游戏，是否还有其他常见的使用场景？</li>
+<li>3.所有这些使用场景下，选电视时考虑的核心参数优先级分别是怎样的？</li>
 </ul>
 </li>
 <li>屏幕
@@ -124,6 +127,12 @@
 <li>2.选电视时，多对比度合适？不易低于多少？</li>
 </ul>
 </li>
+<li>其他
+<ul>
+<li>1.什么是 HDR？</li>
+<li>2.电视的对比度是什么？影响哪些使用体验？</li>
+</ul>
+</li>
 </ul>
 <h3 id="3-星际穿越中的细节">3 《星际穿越》中的细节</h3>
 <p><a href="https://www.bilibili.com/video/BV1iT411J7w4/">万字拆解《星际穿越》</a> by 迷影至下Filmlast。</p>
@@ -153,6 +162,12 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
 - 提供多 CDN 冗余，确保高可用性。
 建议关注其 [官网](https://www.jsdelivr.com/) 或 [GitHub](https://github.com/jsdelivr/jsdelivr) 以获取最新动态。对于关键业务，可考虑备用 CDN（如 unpkg、cdnjs）以防政策变化。
 </code></pre><p>DeepSeek 给的答案在结构上看着很唬人，但是阅读和吸收的过程不是很连贯、流畅。DeepSeek 像一台机器，适合与其他机器对话（其他AI GPT），而豆包像人，适合与人类对话。<strong>所以我喜欢豆包比喜欢DeepSeek多一点，也认定豆包是目前国内最好的 AI GPT 工具</strong>。</p>
+<h3 id="5-华为-nova-13-大光圈拍照实测">5 华为 nova 13 大光圈拍照实测</h3>
+<p>感觉挺好看的，虽然关掉了 AI 美图和各种优化，但是总觉得拍出来的照片被算法优化过。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250506162515.jpg" alt="20250506162515"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250506162701.jpg" alt="20250506162701"></p>
+<h3 id="6-跑步">6 跑步</h3>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/202505061910_run.png" alt="202505061910"></p>
 ]]></content>
             
                  
@@ -174,6 +189,8 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                                 <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
                                 <category scheme="https://zhaowendao.art/tags1/%E7%94%B5%E8%A7%86" term="%E7%94%B5%E8%A7%86" label="电视" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E8%8A%B1" term="%E8%8A%B1" label="花" />
                             
                         
                     
