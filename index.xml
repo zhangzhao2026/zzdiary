@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-    <generator uri="https://gohugo.io/" version="0.127.0">Hugo</generator><title type="html"><![CDATA[ZZ'Life]]></title>
+    <generator uri="https://gohugo.io/" version="0.127.0">Hugo</generator><title type="html"><![CDATA[ZZ's Life]]></title>
     
     
     
             <link href="https://zhaowendao.art/" rel="alternate" type="text/html" title="html" />
             <link href="https://zhaowendao.art/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="https://zhaowendao.art/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-05-09T11:06:23+08:00</updated>
+    <updated>2025-05-14T15:54:41+08:00</updated>
     
     
     <author>
@@ -15,6 +15,194 @@
             </author>
     
         <id>https://zhaowendao.art/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 05 14]]></title>
+            <link href="https://zhaowendao.art/archives/2025-05-14.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-05-14.html/</id>
+            
+            
+            <published>2025-05-14T15:38:43+08:00</published>
+            <updated>2025-05-14T15:38:43+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>我也有电脑副屏啦！</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1396923174" theme="#2980b9"></meting-js>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1@master/2025/20250514_155238.jpg" alt="20250514_155238"></p>
+<p>忙起来真的没时间写日记！前天买的 HDMI 线今天到了，收到快递点短信通知后我迫不及待地开车去镇子上取货。经过对比我才发现家里十年前那个台式显示屏很低端，显示效果还不如笔记本电脑清晰。但勉强凑合着能用，字体也会比大一些。</p>
+<p>有了副屏后电脑上可以同时运行的软件多了三四个——微信、Obsidian、快贴等。现在会感受到笔记本内存有些不够用，正常情况下运行内存会维持在 48% 左右，开直播后可能会到 60% 以上。</p>
+<p>其实吧，我这几天也没有多忙，大多数时候都在做一些没用的小事儿——除了看别人直播和写一些话术，也就只有两个小时的直播时重要的事情。</p>
+<p>从现在开始，我必须认真对待每一天，要考虑当天完成什么任务。</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 05 13]]></title>
+            <link href="https://zhaowendao.art/archives/2025-05-13.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-05-13.html/</id>
+            
+            
+            <published>2025-05-13T01:01:16+08:00</published>
+            <updated>2025-05-13T01:01:16+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>第二天直播。LOL抽到一个神龙尊者卡莎皮肤。</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="26154890" theme="#2980b9"></meting-js>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1@master/2025/20250514032001.png" alt="20250514032001"></p>
+<p>最近连着三个蓝色传送门开出好皮肤，但其实都不是我想要的。我现在最想要一个蔚的源计划。</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 05 12]]></title>
+            <link href="https://zhaowendao.art/archives/2025-05-12.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-05-12.html/</id>
+            
+            
+            <published>2025-05-12T01:00:51+08:00</published>
+            <updated>2025-05-12T01:00:51+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>人生中第一场直播</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="2116619066" theme="#2980b9"></meting-js>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1@master/2025/20250513002902.png" alt="20250513002902"></p>
+<p>也是终于勇敢地直播了一次。说话结结巴巴的，还有很长的路要走。</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%9B%B4%E6%92%AD" term="%E7%9B%B4%E6%92%AD" label="直播" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 05 10]]></title>
+            <link href="https://zhaowendao.art/archives/2025-05-10.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-05-10.html/</id>
+            
+            
+            <published>2025-05-10T01:22:20+08:00</published>
+            <updated>2025-05-10T01:22:20+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>本来决定今天开播</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1424520099" theme="#2980b9"></meting-js>
+<p>原本决定今晚开播，到晚上又怂啦。。。。想着，要不今天算了，明天再直播吧。</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>
@@ -41,6 +229,7 @@
 <li><strong>10:06</strong>-<strong>10:38</strong> 写了第二部分，对成长型日记的见解。</li>
 <li><strong>10:38</strong>-<strong>10:52</strong> 写了第三部分，对写作的见解。</li>
 <li><strong>10:59</strong> 写了第四部分，生活再简化。</li>
+<li><strong>11:20</strong> 起床，迎接今天充满挑战的一天！</li>
 </ul>
 <h2 id="1-对自我的真实记录">1 对自我的真实记录</h2>
 <p>工作的、考研的、考公务员的同学们，投入新生活也快有一年了，而我，却在家躺平了半年之多，再过几个月就有一年了。</p>
@@ -60,24 +249,29 @@
 <p>所以，这可能就是成长型日记的真相——只有面向世界而写，才有足够的理由、压力、动力去成长。</p>
 <h2 id="3-写作是对写点什么的再创作">3 写作是对写点什么的再创作</h2>
 <p>别整天想着“写作”、“作家”了，这会误导自己。在昨天对写作素材的思考中，我认为写作能力其实是一种对思维的设计——比如说，控制观察的角度、控制叙事发展的方向、控制句子的成分等等。这种技能主要是对思维或生活进行干预、引导。我指的“思维”是用文字表达想法，我指的“生活”是用生活增加素材。</p>
-<p>我觉得我应该从生活中删掉“写作”这个词，不要再考虑要写作、要写点什么，而是直接在日记中写点什么。如果这个想法很好，我就可以单独拿出来，再用“写作技艺”将它改造成一个作品。</p>
-<p>这就好像一个作家每天的工作就是周游各地，突然有一天觉得这个地方有值得写作的故事，于是就安定下来，用自己的写作技艺将在这个地方的精力书写成一本故事。</p>
+<p>我应该从生活中删掉“写作”这个词，不要再整天想着写作，而只是写点什么到日记里。如果某个想法很好，可以单独拿出来进行写作，用“写作技艺”将它改造成一个作品。</p>
+<p>这就好像一个作家每天的工作是周游各地，突然有一天在某个地方遇见了值得写作的故事，于是就留在此地，书写此地带给他的故事。</p>
 <p>写作不是频繁发生的工作，“写点什么”才是每天都要做的事情。</p>
 <ul>
-<li>写作，考虑的较多，重点是运用写作技艺，对内容再改造。</li>
-<li>写点什么，考虑的较少，重点是写下来。</li>
+<li>写点什么，考虑的较少，是简单的习惯，重点是写下来，用文字记录思想。</li>
+<li>写作，考虑的较多，是专业的事情，重点是运用写作技艺，用文字改造思想。</li>
 </ul>
 <p>简而言之，<strong>“写作”是对“写点什么”的再创作</strong>。</p>
 <h2 id="4-生活再简化">4 生活再简化</h2>
 <p>现在，我每天需要做的事情如下：</p>
 <ol>
-<li>写日记（思考、记录）</li>
+<li>写日记</li>
 <li>工作赚钱</li>
 <li>健康</li>
 </ol>
 <p>不工作的时候就在写日记或维持健康，不写日记的时候就是在工作或维持健康，不再维持健康的时候就是在写日记或赚钱。</p>
 <p>至于读书，只有当自己对工作游刃有余或日记中无话可写时，才需要阅读提供新思路、思维材料。</p>
 <p>一切都以“项目”为主，思考的内容、工作的内容、锻炼的目的，都是为了完成项目。</p>
+<p>现在，我要尽量避免下面的事物：</p>
+<ul>
+<li>笔记软件尽量不要使用；</li>
+<li>尽量不要在床上使用电脑和手机。</li>
+</ul>
 ]]></content>
             
                  
