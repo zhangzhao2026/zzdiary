@@ -7,7 +7,7 @@
             <link href="http://localhost:1313/" rel="alternate" type="text/html" title="html" />
             <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="http://localhost:1313/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-08-06T00:12:44+08:00</updated>
+    <updated>2025-08-06T01:02:39+08:00</updated>
     
     
     <author>
@@ -15,6 +15,80 @@
             </author>
     
         <id>http://localhost:1313/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 08 06]]></title>
+            <link href="http://localhost:1313/archives/2025-08-06.html/" rel="alternate" type="text/html" />
+            
+                <id>http://localhost:1313/archives/2025-08-06.html/</id>
+            
+            
+            <published>2025-08-06T00:31:07+08:00</published>
+            <updated>2025-08-06T00:31:07+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>代码真神奇</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="2646490319" theme="#2980b9"></meting-js>
+<h2 id="marktext-写博客如虎添翼">MarkText 写博客，如虎添翼</h2>
+<p>我又让 Ghat GPT 帮我写了三组代码，它们的功能分别如下：</p>
+<ol>
+<li>
+<p>关闭 <code>hugo serve</code> 服务器，并运行 <code>hugo</code> 命令生成网站文件；</p>
+</li>
+<li>
+<p>将 <code>public</code> 目录的网站文件复制到 <code>Github</code> 在本机的仓库目录；</p>
+</li>
+<li>
+<p>给于代码2“复制文件的权限”，依次运行代码1和代码2。</p>
+</li>
+</ol>
+<p>我将第三个代码的快捷方式存放在 Windows 的开始菜单顶部，这里还有另外两个快捷方式，分别是用于「调用模板自动在指定文件夹生成当天的博客文件」和「双击后在后台默默运行 <code>hugo serve</code> 服务器」的代码。</p>
+<p>有了这三个法宝，我无需再打开文件夹后执行一系列操作，只需专心在 MarkText 上写字，除了将 Github 本地仓库推送到云端时、每月初修改生成新文件的目录时需要打开 Github Desktop，其余情况操作都可以直接用菜单里的代码执行。</p>
+<blockquote>
+<p>我的文档目录以月份为单位划分文件夹，故此，每月初要修改······</p>
+</blockquote>
+<p>另外，我早些年已经在博客前辈那里得到了双击后自动将指定文件夹推送到云端 Github 仓库的代码，为什么这次对工作流的优化中，这么方便的工具反倒被优化啦？</p>
+<ol>
+<li>
+<p>我的 Github 仓库较多，用 Github Desktop 比较方便；</p>
+</li>
+<li>
+<p>用代码上传文件，报错信息难以察觉，Github Desktop 则直观多了。</p>
+</li>
+</ol>
+<p>所以我不打算将 Github Desktop 踢出工作流。</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                             
+                                <category scheme="http://localhost:1313/tags1/%E7%BC%96%E7%A8%8B" term="%E7%BC%96%E7%A8%8B" label="编程" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>
@@ -28,7 +102,13 @@
             <updated>2025-08-05T22:06:25+08:00</updated>
             
             
-            <content type="html"><![CDATA[<blockquote>新的博客写作方案</blockquote><h2 id="极简博客写作工具">极简博客写作工具</h2>
+            <content type="html"><![CDATA[<blockquote>新的博客写作方案</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="5054922" theme="#2980b9"></meting-js>
+<h2 id="极简博客写作工具">极简博客写作工具</h2>
 <p>长期以来，我的写作工具是：荣耀 MagicBook 2020 + VS code + Hugo。这款电脑陪伴了我四年多时光，如今软件功能越来越丰富，电脑 16 GB的运行内存早已无法游刃有余。</p>
 <p>VS Code 会吃掉 800~900MB 的运行内存，最近我多了几款必须运行的软件，Roam Research、滴答清单、微信等等。对于我这个不希望电脑运行内存突破 50% 的人来说，VS code 最应该做删减，反正，cmd 命令行里也能用 Hugo 生成静态博客文件。</p>
 <p>所以，我让 Chat GPT 写了一个自动运行 <code>hugo serve</code> 的代码，并隐藏终端界面，这样我就摆脱了对终端编辑器中的终端的依赖。hugo 服务器大可整天运行，我只需要找到一款轻便的、漂亮的文字编辑器，只要文件更新了保存，随时就可以在浏览器的 <code>http://localhost:1313/</code> 查看渲染后的网页。</p>
@@ -102,7 +182,7 @@
 <style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
 <script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
-<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1396923174" theme="#2980b9"></meting-js>
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="368800" theme="#2980b9"></meting-js>
 <p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1@master/2025/QQ20250707-211509.png" alt="QQ20250707-211509"></p>
 ]]></content>
             

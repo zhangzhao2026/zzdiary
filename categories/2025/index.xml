@@ -6,8 +6,15 @@
     <description>Recent content in 2025 on ZZ&#39;s Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 22:06:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 00:31:07 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 08 06</title>
+      <link>http://localhost:1313/archives/2025-08-06.html/</link>
+      <pubDate>Wed, 06 Aug 2025 00:31:07 +0800</pubDate>
+      <guid>http://localhost:1313/archives/2025-08-06.html/</guid>
+      <description>MarkText 如虎添翼 我又让 Ghat GPT 帮我写了三组代码，它们的功能分别如下：&#xA;关闭 hugo serve 服务器，并运行 hugo 命令生成网站；&#xA;将 public 的静态博客文件复制到本机的 Github 仓库目录；&#xA;给于文件2复制文件的权限，以此运行文件1和文件2。&#xA;我将这第三个代码的快捷方式挂在 Windows 的开始目录上，另外还有两个之前创造的代码，分别是「调用模板自动在指定文件夹生成当天的博客文件」和「双击后在后台默默运行 hugo serve 服务器」。&#xA;有了这三个法宝，我无需再打开博客源文件夹后再执行一系列操作，只需专心在 MarkText 上写字，除了将 Github 本地仓库推送到云端需要打开 Github Desktop ，其余操作都可以直接用菜单里的代码执行。&#xA;另外，还有一件事，我早就有能够双击后自动将指定文件夹推送到云端 Github 仓库的代码，为什么这次的工作流中没用上它呢？&#xA;我的 Github 仓库较多，用 Github Desktop 比较方便；&#xA;用代码上传文件，报错信息难以察觉，Github Desktop 则直观多了。&#xA;所以我不打算将 Github Desktop 提出工作流。</description>
+    </item>
     <item>
       <title>2025 08 05</title>
       <link>http://localhost:1313/archives/2025-08-05.html/</link>
