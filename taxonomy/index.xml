@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taxonomies on ZZ&#39;s Life</title>
-    <link>https://zhaowendao.art/taxonomy/</link>
+    <link>http://localhost:1313/taxonomy/</link>
     <description>Recent content in Taxonomies on ZZ&#39;s Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://zhaowendao.art/taxonomy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/taxonomy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

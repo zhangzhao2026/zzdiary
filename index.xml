@@ -4,24 +4,138 @@
     
     
     
-            <link href="https://zhaowendao.art/" rel="alternate" type="text/html" title="html" />
-            <link href="https://zhaowendao.art/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
-            <link href="https://zhaowendao.art/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-06-15T14:19:35+08:00</updated>
+            <link href="http://localhost:1313/" rel="alternate" type="text/html" title="html" />
+            <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
+            <link href="http://localhost:1313/index.json" rel="alternate" type="application/json" title="json" />
+    <updated>2025-08-05T23:12:44+08:00</updated>
     
     
     <author>
             <name>zz</name>
             </author>
     
-        <id>https://zhaowendao.art/</id>
+        <id>http://localhost:1313/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 08 05]]></title>
+            <link href="http://localhost:1313/archives/2025-08-05.html/" rel="alternate" type="text/html" />
+            
+                <id>http://localhost:1313/archives/2025-08-05.html/</id>
+            
+            
+            <published>2025-08-05T22:06:25+08:00</published>
+            <updated>2025-08-05T22:06:25+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>新的博客写作方案</blockquote><h2 id="极简博客写作工具">极简博客写作工具</h2>
+<p>长期以来，我的写作工具是：荣耀 MagicBook 2020 + VS code + Hugo。这款电脑陪伴了我四年多时光，如今软件功能越来越丰富，电脑 16 GB的运行内存早已无法游刃有余。</p>
+<p>VS Code 会吃掉 800~900MB 的运行内存，最近我多了几款必须运行的软件，Roam Research、滴答清单、微信等等。对于我这个不希望电脑运行内存突破 50% 的人来说，VS code 最应该做删减，反正，cmd 命令行里也能用 Hugo 生成静态博客文件。</p>
+<p>所以，我让 Chat GPT 写了一个自动运行 <code>hugo serve</code> 的代码，并隐藏终端界面，这样我就摆脱了对终端编辑器中的终端的依赖。hugo 服务器大可整天运行，我只需要找到一款轻便的、漂亮的文字编辑器，只要文件更新了保存，随时就可以在浏览器的 <code>http://localhost:1313/</code> 查看渲染后的网页。</p>
+<p>接下来就是选一个满足需求的编辑器。我第一个排除 Obsidian，它的编辑体验极差，没有让人继续写下去的欲望。好在前几年我对笔记软件痴迷时，收集了数十种安装包。比如 Joplin、Notable，但这两款都不合适。在我的印象中，有一款免费开源且极简的编辑器，没费多少功夫，我找到了它——Marktext。</p>
+<p>见下图，左侧是实时渲染的网页，右侧是在 Marktext 打开的博客原文件。</p>
+<p>相比 850MB 左右的 VS Code，MarkText 帮我节约了 600MB 的运行内存，相当于 7 个滴答清单！更重要的是，它如此美观——见下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250805_224209.jpg" alt="20250805_224209"></p>
+<p>MarkText 的简洁与美观，上手体验感碾压 Obsidian，实际上我觉得 Obsidian 的写作体验感几乎为0，我从来没有在 Obsidian 连贯写过一篇博客，VS Code 则是很少——所以我才拖更这么久（不信不信我都不信）。</p>
+<p>MarkText 唯一的不足是，虽然网上有中文版，但是将中文版安装包上传到多个病毒检测网站后，结果中或多或少都有点风险，从 Github 上下载了正版英文界面的安装包的检测结果则是 100% 绿色无毒。</p>
+<p>我宁愿选择英文版。</p>
+<p><code>hugo.exe</code> 长期后台运行仅占据 28.3MB！哦，再也不能因为埋怨软件而不去写作了（我觉得写作最难的是写什么和怎么写）</p>
+<h2 id="marktext-的重要功能与快捷键">Marktext 的重要功能与快捷键</h2>
+<blockquote>
+<p>下面列举一些于我而言常用的功能或快捷键。</p>
+</blockquote>
+<ul>
+<li><code>Ctrl</code> + <code>E</code>：切换源码/实时预览模式；</li>
+<li><code>Ctrl</code> + <code>M</code>：最小化；</li>
+<li><code>Ctrl</code> + <code>Shift</code> + <code>T</code>：插入表格；</li>
+<li><code>Ctrl</code> + <code>Shift</code> + <code>K</code>：插入代码块；</li>
+<li><code>Ctrl</code> + <code>G</code>：转换为有序列表；</li>
+<li><code>Ctrl</code> + <code>H</code>：转换为无序列表；</li>
+<li><code>Ctrl</code> + <code>Shift</code> + <code>L</code>：撤销列表；</li>
+<li><code>Ctrl</code> + <code>Fn</code> + <code>Esc</code>：行内代码；</li>
+<li><code>Ctrl</code> + <code>D</code>：删除线；</li>
+<li><code>Ctrl</code> + <code>Shift</code> + <code>H</code>：高亮；</li>
+<li><code>Ctrl</code> + <code>U</code>：下划线。</li>
+</ul>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                             
+                                <category scheme="http://localhost:1313/tags1/%E5%8D%9A%E5%AE%A2" term="%E5%8D%9A%E5%AE%A2" label="博客" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 07 11]]></title>
+            <link href="http://localhost:1313/archives/2025-07-11.html/" rel="alternate" type="text/html" />
+            
+                <id>http://localhost:1313/archives/2025-07-11.html/</id>
+            
+            
+            <published>2025-07-11T14:06:25+08:00</published>
+            <updated>2025-07-11T14:06:25+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>一些记录</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1396923174" theme="#2980b9"></meting-js>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1@master/2025/QQ20250707-211509.png" alt="QQ20250707-211509"></p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>
             <title type="html"><![CDATA[2025 06 15]]></title>
-            <link href="https://zhaowendao.art/archives/2025-06-15.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-06-15.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-06-15.html/</id>
+                <id>http://localhost:1313/archives/2025-06-15.html/</id>
             
             
             <published>2025-06-15T12:03:05+08:00</published>
@@ -53,7 +167,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -63,11 +177,11 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E9%A5%AD" term="%E9%A5%AD" label="饭" />
+                                <category scheme="http://localhost:1313/tags1/%E9%A5%AD" term="%E9%A5%AD" label="饭" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
+                                <category scheme="http://localhost:1313/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
                             
                         
                     
@@ -78,9 +192,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 06 03]]></title>
-            <link href="https://zhaowendao.art/archives/2025-06-03.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-06-03.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-06-03.html/</id>
+                <id>http://localhost:1313/archives/2025-06-03.html/</id>
             
             
             <published>2025-06-03T10:47:39+08:00</published>
@@ -109,7 +223,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -119,9 +233,9 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB" term="%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB" label="软件分享" />
+                                <category scheme="http://localhost:1313/tags1/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB" term="%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB" label="软件分享" />
                             
                         
                     
@@ -132,9 +246,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 06 02]]></title>
-            <link href="https://zhaowendao.art/archives/2025-06-02.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-06-02.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-06-02.html/</id>
+                <id>http://localhost:1313/archives/2025-06-02.html/</id>
             
             
             <published>2025-06-02T20:49:37+08:00</published>
@@ -173,7 +287,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -183,9 +297,9 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E8%A7%84%E5%88%92" term="%E8%A7%84%E5%88%92" label="规划" />
+                                <category scheme="http://localhost:1313/tags1/%E8%A7%84%E5%88%92" term="%E8%A7%84%E5%88%92" label="规划" />
                             
                         
                     
@@ -196,9 +310,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 06 01]]></title>
-            <link href="https://zhaowendao.art/archives/2025-06-01.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-06-01.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-06-01.html/</id>
+                <id>http://localhost:1313/archives/2025-06-01.html/</id>
             
             
             <published>2025-06-01T14:08:53+08:00</published>
@@ -231,7 +345,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -241,7 +355,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -252,9 +366,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 31]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-31.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-31.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-31.html/</id>
+                <id>http://localhost:1313/archives/2025-05-31.html/</id>
             
             
             <published>2025-05-31T18:38:48+08:00</published>
@@ -284,7 +398,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -294,7 +408,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -305,9 +419,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 24]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-24.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-24.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-24.html/</id>
+                <id>http://localhost:1313/archives/2025-05-24.html/</id>
             
             
             <published>2025-05-24T14:11:04+08:00</published>
@@ -331,7 +445,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -341,7 +455,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -352,9 +466,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 23]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-23.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-23.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-23.html/</id>
+                <id>http://localhost:1313/archives/2025-05-23.html/</id>
             
             
             <published>2025-05-23T15:03:39+08:00</published>
@@ -371,7 +485,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -381,7 +495,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -392,9 +506,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 22]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-22.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-22.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-22.html/</id>
+                <id>http://localhost:1313/archives/2025-05-22.html/</id>
             
             
             <published>2025-05-22T01:03:17+08:00</published>
@@ -413,7 +527,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -423,7 +537,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -434,9 +548,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 21]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-21.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-21.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-21.html/</id>
+                <id>http://localhost:1313/archives/2025-05-21.html/</id>
             
             
             <published>2025-05-21T01:12:09+08:00</published>
@@ -471,7 +585,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -481,7 +595,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -492,9 +606,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 20]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-20.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-20.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-20.html/</id>
+                <id>http://localhost:1313/archives/2025-05-20.html/</id>
             
             
             <published>2025-05-20T01:11:10+08:00</published>
@@ -519,7 +633,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -529,7 +643,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -540,9 +654,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 19]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-19.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-19.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-19.html/</id>
+                <id>http://localhost:1313/archives/2025-05-19.html/</id>
             
             
             <published>2025-05-19T16:49:37+08:00</published>
@@ -558,7 +672,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -568,7 +682,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -579,9 +693,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 18]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-18.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-18.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-18.html/</id>
+                <id>http://localhost:1313/archives/2025-05-18.html/</id>
             
             
             <published>2025-05-18T01:39:37+08:00</published>
@@ -597,7 +711,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -607,7 +721,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -618,9 +732,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 17]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-17.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-17.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-17.html/</id>
+                <id>http://localhost:1313/archives/2025-05-17.html/</id>
             
             
             <published>2025-05-17T00:25:46+08:00</published>
@@ -637,7 +751,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -647,7 +761,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -658,9 +772,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 16]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-16.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-16.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-16.html/</id>
+                <id>http://localhost:1313/archives/2025-05-16.html/</id>
             
             
             <published>2025-05-16T00:24:18+08:00</published>
@@ -683,7 +797,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -693,7 +807,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -704,9 +818,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 15]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-15.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-15.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-15.html/</id>
+                <id>http://localhost:1313/archives/2025-05-15.html/</id>
             
             
             <published>2025-05-15T09:43:49+08:00</published>
@@ -737,7 +851,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -747,7 +861,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -758,9 +872,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 14]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-14.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-14.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-14.html/</id>
+                <id>http://localhost:1313/archives/2025-05-14.html/</id>
             
             
             <published>2025-05-14T15:38:43+08:00</published>
@@ -787,7 +901,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -797,7 +911,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -808,9 +922,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 13]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-13.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-13.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-13.html/</id>
+                <id>http://localhost:1313/archives/2025-05-13.html/</id>
             
             
             <published>2025-05-13T01:01:16+08:00</published>
@@ -835,7 +949,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -845,9 +959,9 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/lol" term="lol" label="LOL" />
+                                <category scheme="http://localhost:1313/tags1/lol" term="lol" label="LOL" />
                             
                         
                     
@@ -858,9 +972,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 12]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-12.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-12.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-12.html/</id>
+                <id>http://localhost:1313/archives/2025-05-12.html/</id>
             
             
             <published>2025-05-12T01:00:51+08:00</published>
@@ -886,7 +1000,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -896,9 +1010,9 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%9B%B4%E6%92%AD" term="%E7%9B%B4%E6%92%AD" label="直播" />
+                                <category scheme="http://localhost:1313/tags1/%E7%9B%B4%E6%92%AD" term="%E7%9B%B4%E6%92%AD" label="直播" />
                             
                         
                     
@@ -909,9 +1023,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 10]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-10.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-10.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-10.html/</id>
+                <id>http://localhost:1313/archives/2025-05-10.html/</id>
             
             
             <published>2025-05-10T01:22:20+08:00</published>
@@ -937,7 +1051,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -947,7 +1061,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                             
                         
                     
@@ -958,9 +1072,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 09]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-09.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-09.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-09.html/</id>
+                <id>http://localhost:1313/archives/2025-05-09.html/</id>
             
             
             <published>2025-05-09T05:31:02+08:00</published>
@@ -1032,7 +1146,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -1042,11 +1156,11 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
+                                <category scheme="http://localhost:1313/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E5%86%99%E4%BD%9C" term="%E5%86%99%E4%BD%9C" label="写作" />
+                                <category scheme="http://localhost:1313/tags1/%E5%86%99%E4%BD%9C" term="%E5%86%99%E4%BD%9C" label="写作" />
                             
                         
                     
@@ -1057,9 +1171,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 08]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-08.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-08.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-08.html/</id>
+                <id>http://localhost:1313/archives/2025-05-08.html/</id>
             
             
             <published>2025-05-08T14:08:52+08:00</published>
@@ -1135,7 +1249,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -1145,11 +1259,11 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8" term="%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8" label="植物大战僵尸" />
+                                <category scheme="http://localhost:1313/tags1/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8" term="%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8" label="植物大战僵尸" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E5%86%99%E4%BD%9C" term="%E5%86%99%E4%BD%9C" label="写作" />
+                                <category scheme="http://localhost:1313/tags1/%E5%86%99%E4%BD%9C" term="%E5%86%99%E4%BD%9C" label="写作" />
                             
                         
                     
@@ -1160,9 +1274,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 07]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-07.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-07.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-07.html/</id>
+                <id>http://localhost:1313/archives/2025-05-07.html/</id>
             
             
             <published>2025-05-07T07:58:32+08:00</published>
@@ -1193,7 +1307,7 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -1203,9 +1317,9 @@
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E5%B7%A5%E5%8E%82" term="%E5%B7%A5%E5%8E%82" label="工厂" />
+                                <category scheme="http://localhost:1313/tags1/%E5%B7%A5%E5%8E%82" term="%E5%B7%A5%E5%8E%82" label="工厂" />
                             
                         
                     
@@ -1216,9 +1330,9 @@
         
         <entry>
             <title type="html"><![CDATA[2025 05 06]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-06.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-06.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-06.html/</id>
+                <id>http://localhost:1313/archives/2025-05-06.html/</id>
             
             
             <published>2025-05-06T08:31:52+08:00</published>
@@ -1374,7 +1488,7 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -1384,11 +1498,11 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%94%B5%E8%A7%86" term="%E7%94%B5%E8%A7%86" label="电视" />
+                                <category scheme="http://localhost:1313/tags1/%E7%94%B5%E8%A7%86" term="%E7%94%B5%E8%A7%86" label="电视" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E8%8A%B1" term="%E8%8A%B1" label="花" />
+                                <category scheme="http://localhost:1313/tags1/%E8%8A%B1" term="%E8%8A%B1" label="花" />
                             
                         
                     
@@ -1399,9 +1513,9 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
         
         <entry>
             <title type="html"><![CDATA[2025 05 05]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-05.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-05.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-05.html/</id>
+                <id>http://localhost:1313/archives/2025-05-05.html/</id>
             
             
             <published>2025-05-05T19:27:24+08:00</published>
@@ -1461,7 +1575,7 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -1471,13 +1585,13 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/lol" term="lol" label="LOL" />
+                                <category scheme="http://localhost:1313/tags1/lol" term="lol" label="LOL" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
+                                <category scheme="http://localhost:1313/tags1/%E6%97%A5%E8%AE%B0" term="%E6%97%A5%E8%AE%B0" label="日记" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/cdn" term="cdn" label="CDN" />
+                                <category scheme="http://localhost:1313/tags1/cdn" term="cdn" label="CDN" />
                             
                         
                     
@@ -1488,9 +1602,9 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
         
         <entry>
             <title type="html"><![CDATA[2025 05 01]]></title>
-            <link href="https://zhaowendao.art/archives/2025-05-01.html/" rel="alternate" type="text/html" />
+            <link href="http://localhost:1313/archives/2025-05-01.html/" rel="alternate" type="text/html" />
             
-                <id>https://zhaowendao.art/archives/2025-05-01.html/</id>
+                <id>http://localhost:1313/archives/2025-05-01.html/</id>
             
             
             <published>2025-05-01T08:10:43+08:00</published>
@@ -1517,7 +1631,7 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                                <category scheme="http://localhost:1313/categories/2025" term="2025" label="2025" />
                             
                         
                     
@@ -1527,11 +1641,11 @@ JSDelivr 官方表示其目标是**长期保持免费**，但像所有免费服�
                         
                             
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
+                                <category scheme="http://localhost:1313/tags1/%E7%A2%8E%E7%A2%8E%E5%BF%B5" term="%E7%A2%8E%E7%A2%8E%E5%BF%B5" label="碎碎念" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E5%87%BA%E8%A1%8C" term="%E5%87%BA%E8%A1%8C" label="出行" />
+                                <category scheme="http://localhost:1313/tags1/%E5%87%BA%E8%A1%8C" term="%E5%87%BA%E8%A1%8C" label="出行" />
                              
-                                <category scheme="https://zhaowendao.art/tags1/%E5%A9%9A%E7%A4%BC" term="%E5%A9%9A%E7%A4%BC" label="婚礼" />
+                                <category scheme="http://localhost:1313/tags1/%E5%A9%9A%E7%A4%BC" term="%E5%A9%9A%E7%A4%BC" label="婚礼" />
                             
                         
                     
