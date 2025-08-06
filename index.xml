@@ -7,7 +7,7 @@
             <link href="http://localhost:1313/" rel="alternate" type="text/html" title="html" />
             <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="http://localhost:1313/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-08-06T01:02:39+08:00</updated>
+    <updated>2025-08-06T11:25:35+08:00</updated>
     
     
     <author>
@@ -48,7 +48,7 @@
 </li>
 </ol>
 <p>我将第三个代码的快捷方式存放在 Windows 的开始菜单顶部，这里还有另外两个快捷方式，分别是用于「调用模板自动在指定文件夹生成当天的博客文件」和「双击后在后台默默运行 <code>hugo serve</code> 服务器」的代码。</p>
-<p>有了这三个法宝，我无需再打开文件夹后执行一系列操作，只需专心在 MarkText 上写字，除了将 Github 本地仓库推送到云端时、每月初修改生成新文件的目录时需要打开 Github Desktop，其余情况操作都可以直接用菜单里的代码执行。</p>
+<p>有了这三个法宝，除了两种情况下——将 Github 本地仓库推送到云端时、每月初修改一键生成新文件的目录，其余时刻我都无需打开文件夹和终端，只需专心在 MarkText 上写字，其余情况操作都可以用菜单里的一键代码来完成。</p>
 <blockquote>
 <p>我的文档目录以月份为单位划分文件夹，故此，每月初要修改······</p>
 </blockquote>
@@ -62,6 +62,10 @@
 </li>
 </ol>
 <p>所以我不打算将 Github Desktop 踢出工作流。</p>
+<h2 id="日志">日志</h2>
+<ul>
+<li><strong>09:47</strong> 我发现 jsdelivr 加速的图床变卡顿了，搜索一下对象存储一年一百多，我记得两年前还可以按量付费，一年几块钱。那就老老实实继续用老图床吧。</li>
+</ul>
 ]]></content>
             
                  
@@ -114,7 +118,7 @@
 <p>所以，我让 Chat GPT 写了一个自动运行 <code>hugo serve</code> 的代码，并隐藏终端界面，这样我就摆脱了对终端编辑器中的终端的依赖。hugo 服务器大可整天运行，我只需要找到一款轻便的、漂亮的文字编辑器，只要文件更新了保存，随时就可以在浏览器的 <code>http://localhost:1313/</code> 查看渲染后的网页。</p>
 <p>接下来就是选一个满足需求的编辑器。我第一个排除 Obsidian，它的编辑体验极差，没有让人继续写下去的欲望。好在前几年我对笔记软件痴迷时，收集了数十种安装包。比如 Joplin、Notable，但这两款都不合适。在我的印象中，有一款免费开源且极简的编辑器，没费多少功夫，我找到了它——Marktext。</p>
 <p>见下图，左侧是实时渲染的网页，右侧是在 Marktext 打开的博客原文件。</p>
-<p>相比 850MB 左右的 VS Code，MarkText 帮我节约了 600MB 的运行内存，相当于 7 个滴答清单！更重要的是，它如此美观——见下图：</p>
+<p>相比 850MB 左右的 VS Code，MarkText 帮我节约了 650MB 左右的运行内存，相当于 7 个滴答清单！更重要的是，它如此美观——见下图：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250805_224209.jpg" alt="20250805_224209"></p>
 <p>MarkText 的简洁与美观，上手体验感碾压 Obsidian，实际上我觉得 Obsidian 的写作体验感几乎为0，我从来没有在 Obsidian 连贯写过一篇博客，VS Code 则是很少——所以我才拖更这么久（不信不信我都不信）。</p>
 <p>MarkText 唯一的不足是，虽然网上有中文版，但是将中文版安装包上传到多个病毒检测网站后，结果中或多或少都有点风险，从 Github 上下载了正版英文界面的安装包的检测结果则是 100% 绿色无毒。</p>
@@ -135,7 +139,8 @@
 <li><code>Ctrl</code> + <code>Fn</code> + <code>Esc</code>：行内代码；</li>
 <li><code>Ctrl</code> + <code>D</code>：删除线；</li>
 <li><code>Ctrl</code> + <code>Shift</code> + <code>H</code>：高亮；</li>
-<li><code>Ctrl</code> + <code>U</code>：下划线。</li>
+<li><code>Ctrl</code> + <code>U</code>：下划线；</li>
+<li><code>F5</code>：重新加载图片链接。</li>
 </ul>
 ]]></content>
             
