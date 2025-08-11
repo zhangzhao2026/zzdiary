@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on ZZ&#39;s Life</title>
-    <link>http://localhost:52371/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on ZZ&#39;s Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Aug 2025 22:06:25 +0800</lastBuildDate>
-    <atom:link href="http://localhost:52371/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 08 05</title>
-      <link>http://localhost:52371/archives/2025-08-05.html/</link>
+      <link>http://localhost:1313/archives/2025-08-05.html/</link>
       <pubDate>Tue, 05 Aug 2025 22:06:25 +0800</pubDate>
-      <guid>http://localhost:52371/archives/2025-08-05.html/</guid>
+      <guid>http://localhost:1313/archives/2025-08-05.html/</guid>
       <description>极简博客写作工具 长期以来，我的写作工具是：荣耀 MagicBook 2020 + VS code + Hugo。这款电脑陪伴了我四年多时光，如今软件功能越来越丰富，电脑 16 GB的运行内存早已无法游刃有余。&#xA;VS Code 会吃掉 800~900MB 的运行内存，最近我多了几款必须运行的软件，Roam Research、滴答清单、微信等等。对于我这个不希望电脑运行内存突破 50% 的人来说，VS code 最应该做删减，反正，cmd 命令行里也能用 Hugo 生成静态博客文件。&#xA;所以，我让 Chat GPT 写了一个自动运行 hugo serve 的代码，并隐藏终端界面，这样我就摆脱了对终端编辑器中的终端的依赖。hugo 服务器大可整天运行，我只需要找到一款轻便的、漂亮的文字编辑器，只要文件更新了保存，随时就可以在浏览器的 http://localhost:1313/ 查看渲染后的网页。&#xA;接下来就是选一个满足需求的编辑器。我第一个排除 Obsidian，它的编辑体验极差，没有让人继续写下去的欲望。好在前几年我对笔记软件痴迷时，收集了数十种安装包。比如 Joplin、Notable，但这两款都不合适。在我的印象中，有一款免费开源且极简的编辑器，没费多少功夫，我找到了它——Marktext。&#xA;见下图，左侧是实时渲染的网页，右侧是在 Marktext 打开的博客原文件。&#xA;相比 850MB 左右的 VS Code，MarkText 帮我节约了 650MB 左右的运行内存，相当于 7 个滴答清单！更重要的是，它如此美观——见下图：&#xA;MarkText 的简洁与美观，上手体验感碾压 Obsidian，实际上我觉得 Obsidian 的写作体验感几乎为0，我从来没有在 Obsidian 连贯写过一篇博客，VS Code 则是很少——所以我才拖更这么久（不信不信我都不信）。&#xA;MarkText 唯一的不足是，虽然网上有中文版，但是将中文版安装包上传到多个病毒检测网站后，结果中或多或少都有点风险，从 Github 上下载了正版英文界面的安装包的检测结果则是 100% 绿色无毒。&#xA;我宁愿选择英文版。&#xA;hugo.exe 长期后台运行仅占据 28.3MB！哦，再也不能因为埋怨软件而不去写作了（我觉得写作最难的是写什么和怎么写）</description>
     </item>
   </channel>
