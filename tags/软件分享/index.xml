@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>软件分享 on ZZ&#39;s Life</title>
-    <link>http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</link>
+    <link>http://localhost:52371/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</link>
     <description>Recent content in 软件分享 on ZZ&#39;s Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Jun 2025 10:47:39 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52371/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 06 03</title>
-      <link>http://localhost:1313/archives/2025-06-03.html/</link>
+      <link>http://localhost:52371/archives/2025-06-03.html/</link>
       <pubDate>Tue, 03 Jun 2025 10:47:39 +0800</pubDate>
-      <guid>http://localhost:1313/archives/2025-06-03.html/</guid>
+      <guid>http://localhost:52371/archives/2025-06-03.html/</guid>
       <description>如愿(温柔男声版) mp3：https://share.feijipan.com/s/fC0gbzIU。&#xA;下载「一本日记」电脑版安装包时，发现他们使用「小飞机网盘」作为分享工具。我第一次见识该网盘，它为每个人都分配了 1T 的资源容量，并且宣称不限速。于是我注册了这个网盘，尝试在今天的日记中分享一些东西。&#xA;先分享一个无毒正版、无需 VIP 即可使用几乎所有功能的免费版剪映（只有少数几个当年做这个版本时没有的功能没法用）——PC版剪映 3.2 版本。https://share.feijipan.com/s/0R0g49xv，提取码：jy32 再分享一个 6.1.5.0 的 PC 版滴答清单。https://share.feijipan.com/s/cw0g4rtm，提取码：ddqd 再分享一个 3.15.1 的安卓版 Todo清单。https://share.feijipan.com/s/mf0ga14w，提取码：tdqd 国内的软件真卡，Trae 运行内存 1300 MB 之上，相比之前，它偷师的框架 VS Code 运行内存不超过 800 MB.国内只会做加法。</description>
     </item>
   </channel>
