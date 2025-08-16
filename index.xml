@@ -7,7 +7,7 @@
             <link href="https://zhaowendao.art/" rel="alternate" type="text/html" title="html" />
             <link href="https://zhaowendao.art/index.xml" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="https://zhaowendao.art/index.json" rel="alternate" type="application/json" title="json" />
-    <updated>2025-08-16T19:55:49+08:00</updated>
+    <updated>2025-08-16T19:59:08+08:00</updated>
     
     
     <author>
@@ -15,6 +15,221 @@
             </author>
     
         <id>https://zhaowendao.art/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2025 08 16]]></title>
+            <link href="https://zhaowendao.art/archives/2025-08-16.html/" rel="alternate" type="text/html" />
+            
+                <id>https://zhaowendao.art/archives/2025-08-16.html/</id>
+            
+            
+            <published>2025-08-16T09:35:07+08:00</published>
+            <updated>2025-08-16T09:35:07+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>思源笔记闪卡教程</blockquote>
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<style type="text/css">.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', endColorstr='#00212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212121', endColorstr='#cc212121',GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}</style>
+<script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1396923174" theme="#2980b9"></meting-js>
+<h1 id="二再思考记录软件">二、再思考：记录软件</h1>
+<p>现在，我在用的记录软件有四个，用于以下场景：日记、知识库、阅读库、博客。</p>
+<p>实际使用中，日记、知识库、博客中的内容可能出现重合。比如说，今天写的“思源笔记渐进阅读教程”是可以分享出来的文字，所以写进了博客；又因为思源笔记使用方法和渐进阅读的流程是我在未来一定会当说明书查看的内容，所以还要存一份在知识库，它甚至有理由出现在晚间日记的“今天你学到什么”部分。</p>
+<p>所以，我必须思考，理清各种记录应该先在哪写，再拷贝到哪，哪里只用简述、哪里必须详述&hellip;&hellip;</p>
+<h2 id="21-站在过去的自己肩上思考">2.1 站在过去的自己肩上思考</h2>
+<blockquote>
+<p>类似的问题我在 <a href="https://zhaowendao.art/archives/2025-08-12.html/">明晰软件定位</a> 思考过，所以，在开始今天的思考前，我应该先复习之前日记。有东西可复习就能更上一层楼，这是记录的意义；有东西却不复习，明明再向前一步就能减少多少麻烦，却视而不见，说明此人缺乏智慧。</p>
+</blockquote>
+<p>在 2025-08-12 我认为 Roam Research 应该作为汇总日记的工具，言外之意日记没有在 Roam Research 里写。这个思路不对，因为后续的几天我没有继续在 Dynalist 里写日记。</p>
+<p>但 2025-08-12 这天有一个结论可以继续沿用——<strong>根据“所写内容是否可对外分享”来决定要不要写进博客</strong>。</p>
+<h2 id="22-记录场景的必要性思考">2.2 记录场景的必要性思考</h2>
+<p>我有两个理由一定要写博客。第一，写博客能使我“与世界保持联系”的状态，不至于变成一个真正孤僻的家伙；第二，用 MarkText 写长文比其他软件更专注。</p>
+<p>我有三个理由一定要写日记。第一，回答日记中的问题可以使我保持内省，做一个不断进步的人；第二，必须为可能出现的灵感和碎碎念准备一个随时待命，承接它们的地方；第三，我希望享有一个系统，可以帮助我轻松、准确找处过去记录的内容。</p>
+<p>我有三个理由一定要在 Roam Research 之外建知识库。第一，我不想让有关知识库的想法影响我写日记，我指向想专注于使用 Roam Research 的 Daily Notes 功能 <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>；第二，我不想让做了知识库的 MOC 后，影响整个 Roam Research 的标签和双链；第三，我不想让两个需求共用一个系统，在同一个软件的页面之间反复跳转，不可能专心。</p>
+<p><strong>目前我能想到最好的解决方案是，让负责日记和知识库的软件“少见面”，除非查旧资料，其余时候只打开日记软件做记录，晚上用“交接”的方式把日记中的知识拷贝到知识库</strong>。</p>
+<h2 id="23-问题梳理">2.3 问题梳理</h2>
+<p>并不是清楚知道问题在哪才会出现“反思一下，解决问题”的想法，比如我，只是因为感到不适，猜测自己遇到了问题，所以需要反思一下，解决问题。如果不严格要求自己弄清楚迷雾背后的问题，大脑可能会随便想一个问题糊弄过去。所以，我要先把问题梳理清楚，到底是什么困扰了我？</p>
+<ul>
+<li>我希望每天都能往博客里写点内容，但话题不常有，我经常对此深感恐惧；当我没有像今天这么好的话题时，我可以写点什么分享？</li>
+<li>能同时写在多个软件的内容，怎么办？</li>
+<li>哪些软件常驻、哪些软件有需要才打开？</li>
+<li>重点思考什么写进博客、什么写进日记。</li>
+<li>接着再思考如何对待知识库中的软件。</li>
+</ul>
+<h2 id="24-问题处理">2.4 问题处理</h2>
+<h3 id="241-软件常驻">2.4.1 软件常驻</h3>
+<p>必须明确使用每个软件记录什么内容，也就是软件的定位，才能知道为什么启动它。</p>
+<ul>
+<li>后台常驻：Roam Research；（滴答清单）</li>
+<li>按需启动：SiYuan、Dynalist、MarkText。</li>
+</ul>
+<h3 id="242-软件定位">2.4.2 软件定位</h3>
+<ul>
+<li><strong>Roam Research</strong>：复盘、工作日志、碎碎念、反思</li>
+<li><strong>MarkText</strong>：博客、分享。</li>
+<li><strong>SiYuan</strong>：阅读材料剪藏、渐进阅读。</li>
+<li><strong>Dynalist</strong>：知识、经验结构化归档。</li>
+</ul>
+<h3 id="243-对写博客的思考">2.4.3 对写博客的思考</h3>
+<p>目前看，唯一的痛点是博客要不要常驻？我觉得博客还是不要常驻才好。（已在对应部分登记）</p>
+<p>博客没话题时，可以做什么保持我的输出或与世界的联系？<a href="https://zhaowendao.art/archives/2025-05-05.html/">2025-05-05</a> 提示我可以<strong>在博客分享一首歌、一张图、一个词语或成语的学习笔记</strong>。都是好主意。</p>
+<p>实在没有话题也不想践行上述方案，博客不写也罢。</p>
+<p>什么时候打开 MarkText 写博客？</p>
+<ul>
+<li>有东西想分享的时候；</li>
+<li>准备写长文，在博客起稿的时候。</li>
+</ul>
+<hr>
+<p>题外话，<a href="https://zhaowendao.art/archives/2025-05-05.html/">2025-05-05</a> 决定用 Obsidian 写日记和碎碎念的方案没能成功，但现在我可以放心写进常驻后台的 Roam Research 里，最近<strong>设计的系统</strong>能保证我轻松找到我想要的信息。我有信心。</p>
+<blockquote>
+<p>以前我不愿意将自己用的软件分享出来，今天我写在这里，说明我已经不怕了，别人只知道软件，没有我的工作方法和系统设计，便无法复刻我的使用体验。</p>
+</blockquote>
+<h1 id="一思源笔记渐进阅读教程">一、思源笔记渐进阅读教程</h1>
+<p>在分享经验之前，我要先讲讲工具的事儿。</p>
+<p>渐进学习并不是我最近才了解到的学习方法。之所以一直没有践行它，就是因为没有简单、合适的工具，唯一称得上专业工具的 SuperMemo 实在太难用。前天，我又在点电脑上安装了思源笔记，因为我已经有了 Roam Research，它比思源笔记更有助于思考，所以我不需要新的笔记软件，当我从笔记软件之外的角度去思考这款软件能帮我解决什么问题时，看到它内置的闪卡功能和漂亮简洁的界面，我发现思源比 Notion、Obsidian、Roam Research 等任何笔记软件都适合作为阅读文档管理器来用。顺着这个思路我想起了“渐进阅读”，于是昨天恶补渐进阅读相关的知识，并通过新手文档学习了思源笔记的主要功能。终于，自 SuperMemo 之后，我有信心这次能成功践行渐进阅读，因为我什么都不缺了。</p>
+<p>在实践渐进阅读之前，记得下载安装<a href="https://b3log.org/siyuan/download.html">思源笔记</a>和<a href="https://microsoftedge.microsoft.com/addons/detail/%E6%80%9D%E6%BA%90siyuan/lclhdlhleinlppggbbgimbekofanbkcf">浏览器剪藏插件</a>，还有两个软件内的插件：「<a href="https://github.com/IAliceBobI/sy-progressive-plugin">渐进学习</a>」、「<a href="https://github.com/Achuan-2/siyuan-plugin-highlight-cloze">挖空复习</a>」和「<a href="https://github.com/terwer/siyuan-plugin-importer">导入工具</a>」<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>。</p>
+<p>对这种学习方法的使用者而言，最重要的是理清渐进阅读涉及的概念和关键步骤。</p>
+<h2 id="11-渐进阅读涉及的概念">1.1 渐进阅读涉及的概念</h2>
+<p><strong>首先讲讲我自己对渐进阅读涉及的“
+
+
+<mark>原文、分片、摘录、闪卡</mark>”四个概念的理解</strong>：</p>
+<ul>
+<li>原文是导入思源笔记的学习材料，可以是文章或书籍；</li>
+<li>分片是通过「<strong>渐进学习</strong>」插件对原文使用了“添加当前文档到渐进阅读（分片模式）”指令后，将原文拆分成的多个<strong>内容片段</strong>；</li>
+<li>摘录是在渐进阅读过程中发现的、需要反复阅读才能掌握的，<strong>或</strong>是等待阅读行为结束后再处理的内容；</li>
+<li>闪卡是在渐进阅读过程中发现的、想使其成为长期记忆的重要知识，通过“<strong>挖空</strong>”将这些重点制作成填空题或问答题，而后通过思源笔记内置的「<strong>间隔重复</strong>」功能来培养大脑的期记忆。</li>
+</ul>
+<h2 id="12-思源笔记中的文档结构">1.2 思源笔记中的文档结构</h2>
+<p><strong>以上四个概念在思源笔记中对应的文档结构见下图</strong>：</p>
+<ul>
+<li>原文位于顶级目录，摘录、闪卡、分片都位于原文的子级目录。</li>
+<li>摘录：以“<strong>digest-</strong>”开头的文档是<strong>摘录</strong>的标志，对分片或原文每使用一次摘录，就会生成一个“<strong>digest-</strong>”文档的子文档 <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>用于存储。</li>
+<li>分片：以“pieces-”开头的文档是<strong>分片</strong>的标志，“pieces-”文档的每一个子文档都是一个分片。</li>
+<li>闪卡：以“cards-”开头的文档，从原文和分片制作成的闪卡都会记录在该文件中 <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>。</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250816_132202.png" alt="20250816_132202"></p>
+<h2 id="13-渐进阅读的流程">1.3 渐进阅读的流程</h2>
+<p><strong>接下来就是学习渐进阅读的流程</strong>：</p>
+<ol>
+<li><strong>导入和拆分原文</strong>
+<ol>
+<li>略读平时所见的文章或书籍，慎重考量其中内容是否值得学习；</li>
+<li>将值得学习的文章或书籍<strong>导入</strong>到思源笔记；（这一步生成的文档称作“原文”）</li>
+<li><strong>拆分</strong>决定进行阅读的文档；（这一步生成的文档称作“分片”）</li>
+<li>为加入阅读序列的文档划分优先级 <sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>；</li>
+</ol>
+</li>
+<li><strong>阅读分片和制卡</strong>
+<ol>
+<li>删除内容次要的分片；对内容主要的分片进行<strong>制卡</strong>、<strong>摘录</strong>或<strong>再重组</strong>；
+<ul>
+<li>重要的小块内容（知识点、核心概念等）可直接<strong>挖空</strong>，<strong>制卡</strong>；</li>
+<li>重要的大块内容（案例、难理解或想精读的内容等）可对其“<strong>摘录</strong>”；</li>
+</ul>
+</li>
+<li>已阅读的主要分片无需删除，可对其<strong>标注</strong>、<strong>断句</strong>、<strong>改写</strong>重点内容，<strong>淡化</strong>其他内容，以方便多次阅读；</li>
+</ol>
+</li>
+<li><strong>阅读摘录和制卡</strong>
+<ol>
+<li>反复阅读摘录，<strong>思考</strong>并制做笔记 <sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>；</li>
+<li>摘录，要么制成闪卡、要么<strong>改写</strong>为素材，而后删除 <sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>；</li>
+<li>摘录全部处理完之后，将原文档归档；</li>
+</ol>
+</li>
+<li><strong>间隔重复记忆</strong>
+<ol>
+<li>每天抽空对闪卡进行<strong>间隔重复</strong>；</li>
+<li>在重复的过程中，简化闪卡，直到你能回忆起闪卡里整个知识。</li>
+</ol>
+</li>
+</ol>
+<h2 id="14-思源笔记中的操作">1.4 思源笔记中的操作</h2>
+<p><strong>在渐进阅读的流程中出现的黑体表示出来的
+
+
+<mark>关键动作</mark>的实现方法如下</strong>：</p>
+<ul>
+<li>导入：网页用“浏览器剪藏插件”导入，书籍用“导入工具”插件导入。</li>
+<li>拆分：通过「渐进学习」插件的“添加当前文档到渐进阅读（分片模式）”功能以制作原文的分片，选中文档后进行操作，快捷键是<code>Shift</code>+<code>Alt</code>+<code>M</code>。</li>
+<li>摘录：是「渐进学习」插件的功能，按钮位于<strong>块菜单</strong>下的“渐进学习(摘抄模式)”，快捷键是<code>Alt</code>+<code>Z</code>。</li>
+<li>挖空，有两种方式：
+<ul>
+<li>第一种是思源笔记的内置“<strong>标记</strong>”功能，快捷键是<code>Alt</code>+<code>D</code>，标记后的文字在制卡后会成为<strong>填空</strong>；</li>
+<li>另一种是「挖空复习」插件的扩展功能“<strong>块标记</strong>”，按钮位于块菜单的插件部分，被标记的块在打开「挖空复习」插件的“高亮显示”开关后会产生遮罩效果。</li>
+</ul>
+</li>
+<li>制卡：使用「渐进学习」插件的“制卡”功能，按钮位于块菜单的插件部分，快捷键是<code>Alt</code>+<code>E</code>；</li>
+<li>改写：个别句子不通顺的地方，可以用自己的话做优化；</li>
+<li>淡化：用<del>删除线</del>淡化重要内容之外的信息；</li>
+<li>断句：将段落按标点划分成列表项，是一种让段落结构更立体的方法；</li>
+<li>再重组：首次拆分出来的分片的首、尾信息可能不完整，那就补全或删除信息；</li>
+<li>间隔重复，有两种方式：
+<ol>
+<li>所有阅读材料的闪卡一起复习，快捷键<code>Alt</code>+<code>0</code>；</li>
+<li>针对具体阅读材料的闪卡进行复习，先选中文档，快捷键<code>Alt</code>+<code>F</code>。</li>
+</ol>
+</li>
+</ul>
+<p>对我而言，每个分片的字数维持在500字左右最好。</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>之所以不喜欢用「一本日记」APP，最大原因就是它不能像 Roam Research 那样，打开就是当天的 Dairy，打开即可书写，无需手动保存。&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>这些插件我所下载的版本号：渐进学习——v2.1.25；挖空复习——v.0.1.0；导入工具——v1.8.1&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>摘录文档的命名特点：例如<code>[3#10]</code>表示该内容是从第三个分片的第十个内容块里摘录的。&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>我这里制作<strong>闪卡</strong>的功能是「渐进学习」插件在块菜单下的<strong>制卡</strong>功能，快捷键为<code>Alt</code>+<code>E</code>。如果使用思源笔记内置的“快速制卡”功能（<code>Ctrl</code>+<code>Alt</code>+<code>F</code>），则是对选中内容直接制卡，不会进入在“cards-”文档中，为了管理方便，我不用“快速制卡”。&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>有了优先级，意味着你可以为那些存在理解障碍的阅读材料分配低优先级，如此一来就有了充足的时间去补习预备知识。&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p>用一个以“notes-”开头的原文子文档存放阅读过程中的思考。若阅读材料是一本书，则可以在“notes-”文档的子级目录制作结构化笔记。&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p>制成闪卡的摘录会在“cards-”文档中永存；改成素材的摘录会在“digest-”文档中永存。&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/categories/2025" term="2025" label="2025" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E9%95%BF%E6%96%87" term="%E9%95%BF%E6%96%87" label="长文" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95" term="%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95" label="学习方法" />
+                             
+                                <category scheme="https://zhaowendao.art/tags1/%E5%8D%9A%E5%AE%A2" term="%E5%8D%9A%E5%AE%A2" label="博客" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>

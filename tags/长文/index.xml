@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>长文 on ZZ&#39;s Life</title>
-    <link>http://localhost:1313/tags/%E9%95%BF%E6%96%87/</link>
+    <link>https://zhaowendao.art/tags/%E9%95%BF%E6%96%87/</link>
     <description>Recent content in 长文 on ZZ&#39;s Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Aug 2025 09:35:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%95%BF%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhaowendao.art/tags/%E9%95%BF%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 08 16</title>
-      <link>http://localhost:1313/archives/2025-08-16.html/</link>
+      <link>https://zhaowendao.art/archives/2025-08-16.html/</link>
       <pubDate>Sat, 16 Aug 2025 09:35:07 +0800</pubDate>
-      <guid>http://localhost:1313/archives/2025-08-16.html/</guid>
+      <guid>https://zhaowendao.art/archives/2025-08-16.html/</guid>
       <description>二、再思考：记录软件 现在，我在用的记录软件有四个，用于以下场景：日记、知识库、阅读库、博客。&#xA;实际使用中，日记、知识库、博客中的内容可能出现重合。比如说，今天写的“思源笔记渐进阅读教程”是可以分享出来的文字，所以写进了博客；又因为思源笔记使用方法和渐进阅读的流程是我在未来一定会当说明书查看的内容，所以还要存一份在知识库，它甚至有理由出现在晚间日记的“今天你学到什么”部分。&#xA;所以，我必须思考，理清各种记录应该先在哪写，再拷贝到哪，哪里只用简述、哪里必须详述&amp;hellip;&amp;hellip;&#xA;2.1 站在过去的自己肩上思考 类似的问题我在 明晰软件定位 思考过，所以，在开始今天的思考前，我应该先复习之前日记。有东西可复习就能更上一层楼，这是记录的意义；有东西却不复习，明明再向前一步就能减少多少麻烦，却视而不见，说明此人缺乏智慧。&#xA;在 2025-08-12 我认为 Roam Research 应该作为汇总日记的工具，言外之意日记没有在 Roam Research 里写。这个思路不对，因为后续的几天我没有继续在 Dynalist 里写日记。&#xA;但 2025-08-12 这天有一个结论可以继续沿用——根据“所写内容是否可对外分享”来决定要不要写进博客。&#xA;2.2 记录场景的必要性思考 我有两个理由一定要写博客。第一，写博客能使我“与世界保持联系”的状态，不至于变成一个真正孤僻的家伙；第二，用 MarkText 写长文比其他软件更专注。&#xA;我有三个理由一定要写日记。第一，回答日记中的问题可以使我保持内省，做一个不断进步的人；第二，必须为可能出现的灵感和碎碎念准备一个随时待命，承接它们的地方；第三，我希望享有一个系统，可以帮助我轻松、准确找处过去记录的内容。&#xA;我有三个理由一定要在 Roam Research 之外建知识库。第一，我不想让有关知识库的想法影响我写日记，我指向想专注于使用 Roam Research 的 Daily Notes 功能 1；第二，我不想让做了知识库的 MOC 后，影响整个 Roam Research 的标签和双链；第三，我不想让两个需求共用一个系统，在同一个软件的页面之间反复跳转，不可能专心。&#xA;目前我能想到最好的解决方案是，让负责日记和知识库的软件“少见面”，除非查旧资料，其余时候只打开日记软件做记录，晚上用“交接”的方式把日记中的知识拷贝到知识库。&#xA;2.3 问题梳理 并不是清楚知道问题在哪才会出现“反思一下，解决问题”的想法，比如我，只是因为感到不适，猜测自己遇到了问题，所以需要反思一下，解决问题。如果不严格要求自己弄清楚迷雾背后的问题，大脑可能会随便想一个问题糊弄过去。所以，我要先把问题梳理清楚，到底是什么困扰了我？&#xA;我希望每天都能往博客里写点内容，但话题不常有，我经常对此深感恐惧；当我没有像今天这么好的话题时，我可以写点什么分享？ 能同时写在多个软件的内容，怎么办？ 哪些软件常驻、哪些软件有需要才打开？ 重点思考什么写进博客、什么写进日记。 接着再思考如何对待知识库中的软件。 2.4 问题处理 2.4.1 软件常驻 必须明确使用每个软件记录什么内容，也就是软件的定位，才能知道为什么启动它。&#xA;后台常驻：Roam Research；（滴答清单） 按需启动：SiYuan、Dynalist、MarkText。 2.4.2 软件定位 Roam Research：复盘、工作日志、碎碎念、反思 MarkText：博客、分享。 SiYuan：阅读材料剪藏、渐进阅读。 Dynalist：知识、经验结构化归档。 2.</description>
     </item>
   </channel>
