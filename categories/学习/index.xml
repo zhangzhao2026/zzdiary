@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习 on ZZ&#39;s Life</title>
+    <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 学习 on ZZ&#39;s Life</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Aug 2025 09:35:07 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 08 16</title>
+      <link>http://localhost:1313/archives/2025-08-16.html/</link>
+      <pubDate>Sat, 16 Aug 2025 09:35:07 +0800</pubDate>
+      <guid>http://localhost:1313/archives/2025-08-16.html/</guid>
+      <description>&#xD;现在我同时使用的记录文字的软件有四个，分别用于：日记、知识库、阅读、博客。&#xA;思源笔记闪卡教程 </description>
+    </item>
+  </channel>
+</rss>
