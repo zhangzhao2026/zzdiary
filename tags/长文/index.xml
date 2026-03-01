@@ -6,8 +6,15 @@
     <description>Recent content in 长文 on ZZ&#39;s Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 09:35:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 10:48:59 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E9%95%BF%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 08 19</title>
+      <link>http://localhost:1313/archives/2025-08-19.html/</link>
+      <pubDate>Tue, 19 Aug 2025 10:48:59 +0800</pubDate>
+      <guid>http://localhost:1313/archives/2025-08-19.html/</guid>
+      <description>通过“设计内容引用逻辑”，降低Roam Research的性能压力 出发点：专注与在 Daily Note 中做记录，同时也要保证整个库的知识以结构化、系统化的方式组织。[[Page]]和((uid))是组织笔记的核心，但时，盲目地使用[[Page]]和((uid))有可能使Roam Research早早地变得卡顿。为了延长整个库的寿命，我需要找到软件压力最小的记录方式。&#xA;Roam Research 的性能压力主要集中在：对引用密度大的页面中((uid))的渲染、查看块引用详情的 backlinks 面板时的内容渲染、对 Daily Notes 面板展示出的日记文件的渲染，以及打开页面[[Page]]后 references 中存在引用关系的内容渲染。&#xA;不必担心 Daily Notes 对性能的影响，因为 Roam Research 加载 Daily Notes 的逻辑是显示当天日记和最近几天的日记，不会渲染整个库中的日记；&#xA;双链最常被想到的使用方式：在 Daily Note 中写笔记，而后将内容块的((uid))存入[[Page]]建立系统化、结构化的笔记。&#xA;但是，随着页面内引用的((uid))的增多（有上万条的可能），软件在加载页面时的渲染压力会越来越大，消耗的性能资源就会越多，越容易卡顿；&#xA;若将上述记录的逻辑反过来，调换内容和块引用的存储位置，则Roam Research 整个库的性能压力会更低。&#xA;具体方法是：将内容块存放进[[Page]]内，把块引用((uid))保存到 Daily Note中。&#xA;Roam Research 的渲染压力从「渲染[[Page]]中的((uid))引用块内容」，转移到了查看某个块的被引用详情，由于 backlinks 默认不展开，所以以这种方式打开页面时的渲染压力会小很多！渲染((uid))吃掉的性能被转移到了 Daily Note，相比打开一个有上万条((uid))引用的页面，每天的 Daily Note 中的引用最多不超过二十条，几乎不会卡顿。</description>
+    </item>
     <item>
       <title>2025 08 16</title>
       <link>http://localhost:1313/archives/2025-08-16.html/</link>

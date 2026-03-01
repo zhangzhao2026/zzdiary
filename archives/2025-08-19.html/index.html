@@ -8,8 +8,8 @@
   <meta name="toTop" content="true">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="zz" />
-  <meta property="og:url" content="http://localhost:1313/archives/2025-08-17.html/" />
-  <link rel="canonical" href="http://localhost:1313/archives/2025-08-17.html/" /><link rel="apple-touch-icon" href="/img/%e6%98%9f%e7%90%83logo.png" />
+  <meta property="og:url" content="http://localhost:1313/archives/2025-08-19.html/" />
+  <link rel="canonical" href="http://localhost:1313/archives/2025-08-19.html/" /><link rel="apple-touch-icon" href="/img/%e6%98%9f%e7%90%83logo.png" />
   <link rel="icon" href="/img/%e6%98%9f%e7%90%83logo.png" />
   <link rel="shortcut" href="/img/%e6%98%9f%e7%90%83logo.png" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="ZZ&#39;s Life">
 
@@ -22,9 +22,9 @@
            "@id": "http:\/\/localhost:1313\/"
       },
       "articleSection" : "posts",
-      "name" : "2025 08 17",
-      "headline" : "2025 08 17",
-      "description" : "鸡蛋",
+      "name" : "2025 08 19",
+      "headline" : "2025 08 19",
+      "description" : "降低Roam Research的性能压力",
       "inLanguage" : "en-US",
       "author" : "zz",
       "creator" : "zz",
@@ -32,16 +32,16 @@
       "accountablePerson" : "zz",
       "copyrightHolder" : "zz",
       "copyrightYear" : "2025",
-      "datePublished": "2025-08-17 16:53:07 \u002b0800 CST",
-      "dateModified" : "2025-08-17 16:53:07 \u002b0800 CST",
-      "url" : "http:\/\/localhost:1313\/archives\/2025-08-17.html\/",
-      "keywords" : [ "碎碎念","常识分享", ]
+      "datePublished": "2025-08-19 10:48:59 \u002b0800 CST",
+      "dateModified" : "2025-08-19 10:48:59 \u002b0800 CST",
+      "url" : "http:\/\/localhost:1313\/archives\/2025-08-19.html\/",
+      "keywords" : [ "长文","笔记软件", ]
   }
-</script><title>2025 08 17</title>
-  <meta property="og:title" content="2025 08 17" />
+</script><title>2025 08 19</title>
+  <meta property="og:title" content="2025 08 19" />
   <meta property="og:type" content="article" />
-  <meta property="og:description" content="鸡蛋" />
-  <meta name="description" content="鸡蛋" />
+  <meta property="og:description" content="降低Roam Research的性能压力" />
+  <meta name="description" content="降低Roam Research的性能压力" />
   <meta property="og:locale" content="en-us" /><meta property="og:image" content="/img/星球logo.png" />
   
 
@@ -118,13 +118,13 @@
 
         <div class="post-box">
           <header class="post-header">
-            <h1 class="post-title">2025 08 17</h1>
+            <h1 class="post-title">2025 08 19</h1>
             
             <div class="row post-desc">
               <div class="col-xs-6">
                 
-                <time class="post-date" datetime=" 2025-08-17 16:53:07 CST">
-                  发布于 2025-08-17
+                <time class="post-date" datetime=" 2025-08-19 10:48:59 CST">
+                  发布于 2025-08-19
                 </time>
                 
               </div>
@@ -149,8 +149,16 @@
 <script src="https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
 <script src="https://fastly.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><meting-js server="netease" type="song" id="1396923174" theme="#2980b9"></meting-js>
-<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/20250817_010352.png" alt="20250817_010352"></p>
-<p>鸡蛋清和鸡蛋黄中的营养成分含量对比——源自一点点不一样频道。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhangzhao2026/Image1/2025/iG%E5%8D%A1%E8%8E%8E.jpg" alt="iG 卡莎"></p>
+<h2 id="通过设计内容引用逻辑降低roam-research的性能压力">通过“设计内容引用逻辑”，降低Roam Research的性能压力</h2>
+<p>出发点：专注与在 Daily Note 中做记录，同时也要保证整个库的知识以结构化、系统化的方式组织。<code>[[Page]]</code>和<code>((uid))</code>是组织笔记的核心，但时，盲目地使用<code>[[Page]]</code>和<code>((uid))</code>有可能使Roam Research早早地变得卡顿。为了延长整个库的寿命，我需要找到软件压力最小的记录方式。</p>
+<p>Roam Research 的性能压力主要集中在：对引用密度大的页面中<code>((uid))</code>的渲染、查看块引用详情的 backlinks 面板时的内容渲染、对 Daily Notes 面板展示出的日记文件的渲染，以及打开页面<code>[[Page]]</code>后 references 中存在引用关系的内容渲染。</p>
+<p>不必担心 Daily Notes 对性能的影响，因为 Roam Research 加载 Daily Notes 的逻辑是显示当天日记和最近几天的日记，不会渲染整个库中的日记；</p>
+<p>双链最常被想到的使用方式：在 Daily Note 中写笔记，而后将内容块的<code>((uid))</code>存入<code>[[Page]]</code>建立系统化、结构化的笔记。</p>
+<p>但是，随着页面内引用的<code>((uid))</code>的增多（有上万条的可能），软件在加载页面时的渲染压力会越来越大，消耗的性能资源就会越多，越容易卡顿；</p>
+<p>若将上述记录的逻辑反过来，调换内容和块引用的存储位置，则Roam Research 整个库的性能压力会更低。</p>
+<p>具体方法是：将内容块存放进<code>[[Page]]</code>内，把块引用<code>((uid))</code>保存到 Daily Note中。</p>
+<p>Roam Research 的渲染压力从「渲染<code>[[Page]]</code>中的<code>((uid))</code>引用块内容」，转移到了查看某个块的被引用详情，由于 backlinks 默认不展开，所以以这种方式打开页面时的渲染压力会小很多！渲染<code>((uid))</code>吃掉的性能被转移到了 Daily Note，相比打开一个有上万条<code>((uid))</code>引用的页面，每天的 Daily Note 中的引用最多不超过二十条，几乎不会卡顿。</p>
 
           </div>
 
@@ -160,14 +168,14 @@
               <span>标签：
               
               <div class="post-tags">
-                <a href="/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/">
-                  碎碎念
+                <a href="/tags/%E9%95%BF%E6%96%87/">
+                  长文
                 </a>
               </div>
               
               <div class="post-tags">
-                <a href="/tags/%E5%B8%B8%E8%AF%86%E5%88%86%E4%BA%AB/">
-                  常识分享
+                <a href="/tags/%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/">
+                  笔记软件
                 </a>
               </div>
               
@@ -189,10 +197,10 @@
           
           
           <div class="cate">
-            <div class="posts-line"><a class="post-tags" href="/archives/2025-08-19.html/" data-toggle="tooltip" data-placement="top" title="2025 08 19">
-              Last-2025 08 19</a></div>
-            <div class="posts-line"><a class="post-tags" href="/archives/2025-08-16.html/" data-toggle="tooltip" data-placement="top" title="2025 08 19">
-              Past-2025 08 16</a></div>
+            <div class="posts-line"><a class="post-tags" href="/archives/2025-11-11.html/" data-toggle="tooltip" data-placement="top" title="2025 11 11">
+              Last-2025 11 11</a></div>
+            <div class="posts-line"><a class="post-tags" href="/archives/2025-08-17.html/" data-toggle="tooltip" data-placement="top" title="2025 11 11">
+              Past-2025 08 17</a></div>
 
           </div>
           
